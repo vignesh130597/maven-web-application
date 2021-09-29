@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://65.0.170.246:9000/</sonar.host.url>
+		<sonar.host.url>http://13.233.147.177:9000/ </sonar.host.url>
 		<sonar.login>7e0af24be6554442f00200e15b5880f8852485e1</sonar.login> 
               
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.126.124.1:8082/repository/myntra/</url>
+	      <url>http://13.233.89.145:8082/repository/myntra/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.126.124.1:8082/repository/myntra-snapshot/</url>
+	      <url>http://13.233.89.145:8082/repository/myntra-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
